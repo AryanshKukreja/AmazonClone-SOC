@@ -58,17 +58,17 @@ The project spans **2 months**, divided into two phases:
 
 ## 📁 Folder Structure (Final App)
 
-amazon-clone/
-│
-├── frontend/ # Flutter codebase
-│ ├── lib/
-│ ├── android/
-│ └── ...
-│
-├── backend/ # Node.js server code
-│ ├── controllers/
-│ ├── routes/
-│ ├── models/
-│ └── server.js
-│
-└── README.md
+-amazon-clone/
+-│
+-├── frontend/ # Flutter codebase
+-│ ├── lib/
+-│ ├── android/
+-│ └── ...
+-│
+-├── backend/ # Node.js server code
+-│ ├── controllers/
+-│ ├── routes/
+-│ ├── models/
+-│ └── server.js
+-│
+-└── README.md
